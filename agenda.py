@@ -1,6 +1,7 @@
 """An Agenda is a list-like container of Appt (appointment).
 
-   Author: FIXME for CIS 210, U. Oregon
+   Wyatt Reed for CIS 322, U. Oregon
+   Original Author: Michael Young, CIS 322, U. Oregon
 
    Each Appt has a date, a start time, an end time, and
    a textual description.   They can be converted to and
